@@ -3,3 +3,14 @@
 
 # Ada Library Information
 *.ali
+
+# Additional files to be ignore
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.DS_Store
+.gitignore
+ Data/.DS_Store
