@@ -67,6 +67,6 @@ https://www.monash.edu/students/admin/policies/academic-integrity
 | 2 Graphs with captions   |     |
 | 2 Graphs referenced      |     |
 | 2 Tables with captions   |     |
-| 2 Tables refrenced       |     |
+| 2 Tables referenced      |     |
 | Overall report quality   |     |
 
