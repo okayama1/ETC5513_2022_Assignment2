@@ -52,6 +52,8 @@ Monash University is committed to honesty and academic integrity. There are seri
 
 https://www.monash.edu/students/admin/policies/academic-integrity
 
+- You cannot re-use assignments that have been submitted to other units!
+
 
 
 # Assignment rubric
