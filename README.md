@@ -1,5 +1,5 @@
 # Assignment2 
-This is the repo for ETC5513 Assignment 2 due on Friday April 16 at 5:00pm.
+This is the repo for ETC5513 Assignment 2 due on Friday April 15 at 16:30pm (Melbourne time).
 
 # The Goals of the assignment:
 
