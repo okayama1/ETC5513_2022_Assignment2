@@ -33,7 +33,7 @@ The tasks for the assignment are as follows:
  
  # Due date
 
-- Assignment is due on Friday May 1 at 1pm. Late submissions will not be accepted.
+- Assignment is due on Wednesday April 27 at 4:30pm (Melbourne time). Late submissions will not be accepted.
 - By the due date all the changes in your repo needs to be merged to the master branch.
 - If GitHub repos are modified after the submission date. The assignment will be marked with a 0.
  
