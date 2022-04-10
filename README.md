@@ -1,5 +1,5 @@
 # Assignment2 
-This is the repo for ETC5513 Assignment 2 due on Friday April 15 at 16:30pm (Melbourne time).
+This is the repo for ETC5513 Assignment 2 due on Wednesday  April 27 at 16:30pm (Melbourne time).
 
 # The Goals of the assignment:
 
@@ -33,7 +33,7 @@ The tasks for the assignment are as follows:
  
  # Due date
 
-- Assignment is due on Wednesday April 27 at 4:30pm (Melbourne time). Late submissions will not be accepted.
+- Assignment is due on Wednesday  April 27 at 4:30pm (Melbourne time). Late submissions will not be accepted.
 - By the due date all the changes in your repo needs to be merged to the master branch.
 - If GitHub repos are modified after the submission date. The assignment will be marked with a 0.
  
